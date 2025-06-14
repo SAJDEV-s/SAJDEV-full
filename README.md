@@ -37,7 +37,7 @@
 ## 📊 My GitHub Stats
 
 <p align="center">
- [![GitHub Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SAJDEV-s&theme=tokyonight)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+ https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SAJDEV-s&theme=tokyonight)](https://github.com/vn7n24fzkq/github-profile-summary-cards
 
 </p>
 
