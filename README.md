@@ -37,8 +37,8 @@
 ## 📊 My GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SAJDEV-full&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=SAJDEV-full&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SAJDEV-sl&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=SAJDEV-s&theme=tokyonight" />
 </p>
 
 ---
