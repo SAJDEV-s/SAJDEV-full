@@ -45,7 +45,7 @@
 
 ## 📫 Contact Me
 
-- 📧 Email: sajad1979@gmail.com  
+- 📧 Email: sajad197@gmail.com  
 - 🌐 Portfolio: _Coming Soon..._  
 - 💬 Telegram: [@sajdev](https://t.me/sajdev)  
 - 📍 GitHub: [github.com/SAJDEV-full](https://github.com/SAJDEV-full)
