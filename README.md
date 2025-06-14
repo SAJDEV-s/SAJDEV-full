@@ -34,14 +34,6 @@
 
 
 
-## 📊 My GitHub Stats
-
-<p align="center">
- 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SAJDEV-s&layout=compact&theme=radical" alt="Top Langs" />
-</p>
-
----
 
 ## 📫 Contact Me
 
