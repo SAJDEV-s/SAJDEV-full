@@ -1,27 +1,30 @@
-<h1 align="center">سلام! 👋 من سجادم</h1>
+<h1 align="center">Hi! 👋 I'm Sajad</h1>
 
 <p align="center">
-💻 Web Developer (Laravel + Filament + Livewire) | 🐧 Linux User | 🎓 Software Engineering Student  
-🇮🇷 From Iran | 🧠 Self-learner | 🕊️ Building my path to personal and professional growth
+💻 Web Developer (Laravel + Filament + Livewire) | 🐧 Linux Enthusiast | 🎓 Software Engineering Student  
+🇮🇷 Based in Iran | 🧠 Self-learner | 🕊️ On a journey of personal and professional growth
 </p>
 
 ---
 
-## 🧠 درباره من
+## 🧠 About Me
 
-- 👨‍💻 توسعه‌دهنده وب با تمرکز روی PHP و فریم‌ورک Laravel  
-- 👷‍♂️ پیاده‌سازی چندین پروژه واقعی:
-  - ERP سیستمی با ماژول‌های HR، Finance، Logistics و Security
-  - سیستم آگهی فروش
-  - سامانه آموزشگاه ورزشی
-- 🌱 در حال یادگیری: **PHPUnit**، تست‌نویسی، Clean Architecture، برند شخصی
-- 🔍 به دنبال بهبود مداوم، ساخت رزومه قوی و ورود به بازار بین‌المللی
-- 😌 آدم خجالتی ولی با پشتکار
-- 📚 عاشق یادگیری از دوره‌های آنلاین و پادکست‌ها (یه زمانی خیلی فعال بودم!)
+- 👨‍💻 A backend web developer focused on PHP and Laravel framework  
+- 👷‍♂️ Real-world project experience including:
+  - ERP system with full modules (🧑‍💼HR, 💵Finance, 🚚Logistics, 🔐Security, 🖥️IT)
+  - Online ad listing platform
+  - Academy management system
+  - Salon turn  management system
+  - Restaurant  management system
+  - Warehousing  management system
+- 🌱 Currently learning **PHPUnit**, software testing, clean architecture, and personal branding
+- 🔍 Always seeking growth, strong resume building, and opportunities in international markets
+- 😌 Naturally introverted, but highly committed and consistent
+- 🎧 Formerly active in online courses and podcasts — aiming to reignite that energy!
 
 ---
 
-## 🛠️ مهارت‌ها و تکنولوژی‌ها
+## 🛠️ Skills & Technologies
 
 ![Laravel](https://img.shields.io/badge/Laravel-red?style=for-the-badge&logo=laravel)
 ![Livewire](https://img.shields.io/badge/Livewire-blue?style=for-the-badge)
@@ -34,27 +37,9 @@
 
 ---
 
-## 🚀 پروژه‌های مهم
 
-### 🔹 ERP Full System
-Modular system including:
-- 🧑‍💼 HR (Employees, Leave, Payroll, Department)
-- 💵 Finance (Accounts, Vendor, Currency, Reports)
-- 🚚 Logistics (Purchase, Inventory, Assets, Warehouse)
-- 🔐 Security (Gate Pass, Visitor Management)
-- 🖥️ IT (User, Role, Logs)
 
-> تمرکز: Clean Code, Scalable Structure, Security, UX
-
-### 🔹 سامانه آموزشگاه ورزشی
-- مدیریت دوره‌ها، ثبت‌نام، مربیان و ورزشکارها
-
-### 🔹 سیستم آگهی فروش
-- با قابلیت دسته‌بندی، فیلتر، و کنترل پنل پیشرفته
-
----
-
-## 📊 آمار گیت‌هاب من
+## 📊 My GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SAJDEV-full&show_icons=true&theme=tokyonight" />
@@ -63,10 +48,10 @@ Modular system including:
 
 ---
 
-## 📫 ارتباط با من
+## 📫 Contact Me
 
-- 📧 Email: sajdev@example.com  
-- 🌐 Portfolio: [در حال ساخت...]  
+- 📧 Email: sajad1979@gmail.com  
+- 🌐 Portfolio: _Coming Soon..._  
 - 💬 Telegram: [@sajdev](https://t.me/sajdev)  
 - 📍 GitHub: [github.com/SAJDEV-full](https://github.com/SAJDEV-full)
 
