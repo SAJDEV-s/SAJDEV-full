@@ -17,11 +17,6 @@
   - Salon turn  management system
   - Restaurant  management system
   - Warehousing  management system
-- 🌱 Currently learning **PHPUnit**, software testing, clean architecture, and personal branding
-- 🔍 Always seeking growth, strong resume building, and opportunities in international markets
-- 😌 Naturally introverted, but highly committed and consistent
-- 🎧 Formerly active in online courses and podcasts — aiming to reignite that energy!
-
 ---
 
 ## 🛠️ Skills & Technologies
